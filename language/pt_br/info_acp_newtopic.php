@@ -2,7 +2,7 @@
 /**
 *
 * New Topic [Brazilian Portuguese [pt_br]] 
-* Brazilian Portuguese  translation by eunaumtenhoid [ver 1.0.1] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese  translation by eunaumtenhoid [2017][ver 1.0.1] (https://github.com/phpBBTraducoes)
 * @package info_acp_newtopic.php
 * @copyright BB3.MOBi (c) 2015 Anvar http://apwa.ru
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
